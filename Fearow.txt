@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Fearow es un Pokémon de tipo normal y volador. Es la segunda y última etapa de Spearow,suele ser bastante agresiv
 Evolución. Spearow evoluciona a Fearow en el nivel 20.
 
+=======
+Fearow es un Pokémon de tipo normal y volador. Es la segunda y última etapa de Spearow,suele ser bastante agreso
+
+Modificacion 1
+>>>>>>> d24f8b471e75529c5680ed890702939afee4ebf5
