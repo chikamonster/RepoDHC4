@@ -1,3 +1,13 @@
 Arbok (� un Pokémon de tipo veneno. Es la segunda y última etapa de Ekans. Su nombre al revés es kobra que la asocia al reino animal.
+<<<<<<< HEAD
 
 Modificacion 1
+=======
+<<<<<<< HEAD
+Se han llegado a identificar hasta seis variaciones distintas de los espeluznantes dibujos de su piel.
+
+=======
+
+Modificacion 1
+>>>>>>> d24f8b471e75529c5680ed890702939afee4ebf5
+>>>>>>> aba4c0b32b237cc0d278ec860c7aec005c422893

@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 Wigglytuff (�n Pokémon de tipo normal. En la sexta generación, se le ah añadido un tipo más (Hada). Es la tercera y última etapa de Iggl
 
 Modificacion 1
+=======
+<<<<<<< HEAD
+Wigglytuff (�n Pokémon de tipo normal. En la sexta generación, se le ah añadido un tipo más (Hada). Es la tercera y última etapa de Igglybuff
+
+Wigglytuff aprende muchos movimientos con los que puede pararles los pies a sus rivales, de modo que juega un papel muy importante a la hora de crear tácticas y ayudar a sus compañeros de equipo.
+=======
+Wigglytuff (�n Pokémon de tipo normal. En la sexta generación, se le ah añadido un tipo más (Hada). Es la tercera y última etapa de Iggl
+
+Modificacion 1
+>>>>>>> d24f8b471e75529c5680ed890702939afee4ebf5
+>>>>>>> aba4c0b32b237cc0d278ec860c7aec005c422893
